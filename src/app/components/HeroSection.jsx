@@ -28,8 +28,8 @@ const HeroSection = () => {
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl lg:w-[880px]">
             I am a Frontend Developer who has a passion for Web Development, one of my
-            life mottos is Dont rush the process, trust that great things take time which
-            means dont rush the process, believe that great things take time.
+            life mottos is Don&apos;t rush the process, trust that great things take time
+            which means don&apos;t rush the process, believe that great things take time.
           </p>
           <div>
             <Link
