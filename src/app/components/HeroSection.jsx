@@ -3,7 +3,6 @@ import React from "react"
 import { TypeAnimation } from "react-type-animation"
 import { motion } from "framer-motion"
 import Link from "next/link"
-// import cv from "../../../public/cv/CV.Tajul_Subqi.pdf"
 
 const HeroSection = () => {
   return (
@@ -29,8 +28,8 @@ const HeroSection = () => {
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl lg:w-[880px]">
             I am a Frontend Developer who has a passion for Web Development, one of my
-            life mottos is "Don't rush the process, trust that great things take time"
-            which means don't rush the process, believe that great things take time.
+            life mottos is Dont rush the process, trust that great things take time which
+            means dont rush the process, believe that great things take time.
           </p>
           <div>
             <Link
@@ -42,7 +41,6 @@ const HeroSection = () => {
 
             <Link
               href="/cv/CV.Tajul_Subqi.pdf"
-              // download={cv}
               target="_blank"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800 text-white mt-3"
             >
