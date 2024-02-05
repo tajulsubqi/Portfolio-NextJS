@@ -6,7 +6,7 @@ import Link from "next/link"
 
 const HeroSection = () => {
   return (
-    <section className="lg:py-16 min-h-screen lg:mt-14">
+    <section className="lg:py-16 lg:min-h-screen lg:mt-7">
       <div className="grid grid-cols-1 sm:grid-cols-12">
         <motion.div
           initial={{ opacity: 0, scale: 0.5 }}
@@ -26,7 +26,7 @@ const HeroSection = () => {
               repeat={Infinity}
             />
           </h1>
-          <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl lg:w-[880px]">
+          <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl lg:w-[85%]">
             I am a Frontend Developer who has a passion for Web Development, one of my
             life mottos is Don&apos;t rush the process, trust that great things take time
             which means don&apos;t rush the process, believe that great things take time.

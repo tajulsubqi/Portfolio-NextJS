@@ -31,7 +31,7 @@ const projectsData = [
   {
     id: 4,
     title: "Trivia Cap Mobile",
-    description: "Game Quiz Geografic",
+    description: "Game Quiz Geography",
     image: "/images/projects/4.png",
     tag: ["All", "Mobile"],
     gitUrl: "https://github.com/tajulsubqi/Trivia-Cap",
